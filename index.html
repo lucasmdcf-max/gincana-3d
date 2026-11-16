@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#141828">
+<title>Gincana 3D</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.147.0/build/three.module.js",
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.147.0/examples/jsm/",
+    "mindar-image-three": "https://cdn.jsdelivr.net/npm/mind-ar@1.2.5/dist/mindar-image-three.prod.js"
+  }
+}
+</script>
+</head>
+<body>
+
+<!-- TERMOS -->
+<section id="tela-termos" class="tela ativa">
+  <div class="card">
+    <h1>Gincana 3D</h1>
+    <p class="sub">Divirta-se e aprenda sobre a Bíblia!</p>
+    <h2>Termos de Uso</h2>
+    <div class="termos">
+      <p>Para utilizar o aplicativo, aceite os termos de uso.</p>
+      <p>O jogo usa a câmera do aparelho apenas para reconhecer os cartões (baús) impressos. Nenhuma imagem é gravada ou enviada.</p>
+      <p>Pontuação e ranking ficam salvos somente neste aparelho.</p>
+      <p class="aviso">[Substituir pelo texto oficial dos termos da Fuctura]</p>
+    </div>
+    <label class="check"><input type="checkbox" id="aceito"> Li e aceito os termos</label>
+    <button id="btn-aceitar" class="btn" disabled>Jogar</button>
+  </div>
+</section>
+
+<!-- TEMAS -->
+<section id="tela-temas" class="tela">
+  <div class="card">
+    <h1>Escolha o tema</h1>
+    <p class="sub">Espalhe os marcadores (baús) e use-os para responder as perguntas.</p>
+    <div id="lista-temas" class="lista"></div>
+    <h3>Melhores resultados</h3>
+    <div id="ranking" class="ranking"></div>
+    <button id="btn-limpar-ranking" class="btn-link">Limpar ranking</button>
+  </div>
+</section>
+
+<!-- JOGO -->
+<section id="tela-jogo" class="tela">
+  <div class="topo">
+    <button id="btn-sair" class="btn-mini" aria-label="Sair">&#10005;</button>
+    <div class="placar"><span class="rot">Pontos</span><strong id="pontos">0</strong></div>
+    <div class="placar"><span class="rot">Baús</span><strong id="progresso">0/10</strong></div>
+    <div class="placar"><span class="rot">Tempo</span><strong id="tempo">00:00</strong></div>
+  </div>
+  <div id="ar-container"></div>
+  <div id="aviso-ar" class="aviso-ar">Você pode escolher qualquer baú para começar</div>
+  <div class="base">
+    <button id="btn-manual" class="btn-mini largo">Sem câmera: escolher baú</button>
+  </div>
+  <div id="painel-manual" class="painel-manual oculto">
+    <p>Toque no número do baú</p>
+    <div id="grade-baus" class="grade"></div>
+    <button id="btn-fechar-manual" class="btn-link">Fechar</button>
+  </div>
+
+  <!-- PERGUNTA -->
+  <div id="modal-pergunta" class="modal oculto">
+    <div class="card">
+      <div class="bau-num" id="q-bau">Baú 1</div>
+      <h2 id="q-texto"></h2>
+      <div id="q-respostas" class="respostas"></div>
+      <div id="q-feedback" class="feedback oculto"></div>
+      <button id="q-continuar" class="btn oculto">Continuar</button>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL -->
+<section id="tela-final" class="tela">
+  <div class="card">
+    <h1>Fim da Gincana!</h1>
+    <p class="sub" id="final-tema"></p>
+    <div class="final-num"><span id="final-pontos">0</span><small>pontos</small></div>
+    <p>Acertos: <strong id="final-acertos"></strong> &middot; Tempo: <strong id="final-tempo"></strong></p>
+    <p id="final-recorde" class="recorde oculto">Novo recorde!</p>
+    <button id="btn-de-novo" class="btn">Jogar de novo</button>
+    <button id="btn-temas" class="btn-link">Escolher outro tema</button>
+  </div>
+</section>
+
+<div id="toast" class="toast oculto"></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

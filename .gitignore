@@ -1,0 +1,7 @@
+# Fica fora do repositório público (decisão de 2026-11-16: só o app)
+*.md
+teste-sw.mjs
+LEIA-ME.txt
+compilar.html
+baus-para-compilar-512/
+node_modules/

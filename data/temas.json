@@ -1,0 +1,535 @@
+{
+ "temas": [
+  {
+   "id": "davi-golias",
+   "nome": "Davi e Golias",
+   "padrao": true,
+   "perguntas": [
+    {
+     "q": "Qual o nome do pai de Davi? 1Sm 16:19",
+     "a": [
+      "Gessebel",
+      "Isaias",
+      "Jesse",
+      "Samuel"
+     ],
+     "c": 2
+    },
+    {
+     "q": "Quem entrou em guerra contra os Filisteus? 2Sm 21:15",
+     "a": [
+      "Davi",
+      "Israel",
+      "Jesse",
+      "Samuel"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Qual a cidade de origem de Golias? 1Sm 17:4",
+     "a": [
+      "Israel",
+      "Male",
+      "Filisteus",
+      "Gate"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Qual o nome do Rei de Davi? 1Sm 24:8",
+     "a": [
+      "Israel",
+      "Samuel",
+      "Jesse",
+      "Saul"
+     ],
+     "c": 3
+    },
+    {
+     "q": "O que o rei deu para Davi? 1Sm 17:38",
+     "a": [
+      "Funda",
+      "Espada",
+      "Armadura",
+      "Lança"
+     ],
+     "c": 2
+    },
+    {
+     "q": "Quais animais Davi disse ao rei que matou? 1Sm 17:36",
+     "a": [
+      "Lobo e Leão",
+      "Leão e Urso",
+      "Leão e Lobo",
+      "Urso e Lobo"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quantas pedras Davi pegou no lago? 1Sm 17:40",
+     "a": [
+      "2",
+      "3",
+      "4",
+      "5"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Qual era o maior poder de Davi? 1Sm 17:45",
+     "a": [
+      "Espirito Santo",
+      "Uma Funda",
+      "Pedra de Efeito",
+      "Pedra de Fogo"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Qual irmão de Davi ficou irritado por vê-lo conversando com os soldados? 1Sm 17:28",
+     "a": [
+      "Eliabe",
+      "Abinadabe",
+      "Samá",
+      "Natanael"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Quantos são os irmãos de Davi? 1Sm 16:10",
+     "a": [
+      "8",
+      "10",
+      "7",
+      "6"
+     ],
+     "c": 2
+    }
+   ]
+  },
+  {
+   "id": "diversos",
+   "nome": "Diversos",
+   "perguntas": [
+    {
+     "q": "Qual o nome da esposa de Jacó? Gn 29:18",
+     "a": [
+      "Raquel",
+      "Ada",
+      "Rebeca",
+      "Maria"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Onde foi que Sansão encontrou um favo de mel muito especial? Jz 14:8",
+     "a": [
+      "No oco de uma árvore",
+      "Na carcaça de um Leão",
+      "Numa caverna que só ele conhecia",
+      "Em casa"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quantas homens foram Guerrear junto com Gideão? Jz 7:6",
+     "a": [
+      "300",
+      "100",
+      "1000",
+      "3000"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Qual a quarta praga do Egito? Êx 8:21",
+     "a": [
+      "Moscas",
+      "Piolhos",
+      "Pestes nos animais",
+      "Gafanhoto"
+     ],
+     "c": 0
+    },
+    {
+     "q": "O versiculo \"Deus e o nosso refugio e fortaleza\", esta no: Sl 46:1",
+     "a": [
+      "Salmo 23",
+      "Salmo 46",
+      "Salmo 93",
+      "Salmo 78"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quem Foi o Professor do Apóstolo Paulo? At 22:3",
+     "a": [
+      "Judas",
+      "Timóteo",
+      "Gamaliel",
+      "Apolo"
+     ],
+     "c": 2
+    },
+    {
+     "q": "Quando o Rei Saul estava doente e perturbado, que remédio o acalmava? 1Sm 16:23",
+     "a": [
+      "Leite de cabra.",
+      "Musica de harpa.",
+      "Banho quente.",
+      "Vinho."
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quando Jesus se apresentou no meio dos doutores ele tinha: Lc 2:42",
+     "a": [
+      "33 anos",
+      "12 anos",
+      "14 anos",
+      "42 anos"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quantos dias choveu no dilúvio na terra? Gn 7:17",
+     "a": [
+      "100",
+      "68",
+      "40",
+      "58"
+     ],
+     "c": 2
+    },
+    {
+     "q": "José do Egito morreu com quantos anos? Gn 50:26",
+     "a": [
+      "110",
+      "254",
+      "756",
+      "5"
+     ],
+     "c": 0
+    }
+   ]
+  },
+  {
+   "id": "moises-1",
+   "nome": "Moisés 1",
+   "perguntas": [
+    {
+     "q": "Qual o nome do sogro de Moisés? Êx.3-1",
+     "a": [
+      "Arão",
+      "Jetro",
+      "Anrão",
+      "Hanrão"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Com quantos anos Moisés faleceu? Dt.34-7",
+     "a": [
+      "100",
+      "120",
+      "40",
+      "90"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Qual o nome da esposa de Moisés? Êx.2-21",
+     "a": [
+      "Zipora",
+      "Midiã",
+      "Joquebede",
+      "Miriã"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Quantos filhos Moisés teve? Êx.2-21",
+     "a": [
+      "1",
+      "4",
+      "3",
+      "2"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Por que faraó queria matar Moisés? Êx.2:14-15",
+     "a": [
+      "Por que matou um egípcio.",
+      "Por medo da morte",
+      "Por que foi obrigado.",
+      "Por que ele roubou."
+     ],
+     "c": 0
+    },
+    {
+     "q": "Para aonde Moisés fugiu? Êx.2:15",
+     "a": [
+      "Jerusalém",
+      "Midiã",
+      "Israel",
+      "Canaã"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quantos livros da bíblia são considerados escritos por Moisés?",
+     "a": [
+      "3",
+      "4",
+      "6",
+      "5"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Qual a função de Jetro? Êx.3:1",
+     "a": [
+      "Levita",
+      "Sacerdote",
+      "Comerciante",
+      "Centurião"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Qual o significado do nome de Moisés? Êx. 2:10",
+     "a": [
+      "Retirado das águas",
+      "Retirado dos rios",
+      "Colocado das águas",
+      "Abençoado pelas águas"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Quem retirou Moisés do rio? Êx.2:5",
+     "a": [
+      "Filha de faraó",
+      "Empregada da filha de faraó",
+      "Irmã de faraó",
+      "Esposa de faraó"
+     ],
+     "c": 1
+    }
+   ]
+  },
+  {
+   "id": "moisés-2",
+   "nome": "Moisés 2",
+   "perguntas": [
+    {
+     "q": "Porque Moisés foi escondido pela sua mãe? Êx.1:22",
+     "a": [
+      "Porque faraó tinha medo dos judeus.",
+      "Porque Moisés era bonito",
+      "Porque Moisés era feio",
+      "Porque faraó ordenou matar todos filhos que nascessem."
+     ],
+     "c": 3
+    },
+    {
+     "q": "Porque o povo passou 40 anos no deserto? Êx.13:17",
+     "a": [
+      "Porque o povo murmurava",
+      "Porque o povo era preguiçoso",
+      "Porque se perderam",
+      "Porque não seguiam Moisés"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Quanto tempo o povo ficou no deserto? Dt.2:7",
+     "a": [
+      "80 anos",
+      "8 dias",
+      "40 dias",
+      "40 anos"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Porque Moisés não entrou na terra prometida? Êx.32:19",
+     "a": [
+      "Porque ele mentiu",
+      "Porque ele se irou",
+      "Porque ele faltou amor ao próximo",
+      "Porque ele adoeceu"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Porque o povo israelita saiu do Egito? Êx.3:7-9",
+     "a": [
+      "Porque eram oprimidos",
+      "Porque eram fracos",
+      "Porque eram ruivos",
+      "Porque eram numerosos"
+     ],
+     "c": 0
+    },
+    {
+     "q": "O que o senhor mandou Moisés tirar para falar com ele? Êx.3:5",
+     "a": [
+      "O cajado",
+      "A túnica",
+      "As sandálias dos pés",
+      "A barba"
+     ],
+     "c": 2
+    },
+    {
+     "q": "Qual foi a única terra do Egito que não foi atingida pela saraiva? Êx.9:26",
+     "a": [
+      "Israel",
+      "Líbia",
+      "Gósen",
+      "Paladina"
+     ],
+     "c": 2
+    },
+    {
+     "q": "O que o povo comia no deserto? Êx.16:35",
+     "a": [
+      "Pão",
+      "Maná",
+      "Cobras",
+      "Peixe"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Quem amamentou Moisés quando ele estava na casa de faraó? Êx.2:7-8",
+     "a": [
+      "A mãe de Moisés",
+      "As empregadas",
+      "A princesa",
+      "A esposa de faraó"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Onde Deus apareceu pela primeira vez para Moisés? Êx.3:2",
+     "a": [
+      "Em uma figueira",
+      "Em uma sarça",
+      "Em um sonho",
+      "No monte"
+     ],
+     "c": 1
+    }
+   ]
+  },
+  {
+   "id": "moisés-3",
+   "nome": "Moisés 3",
+   "perguntas": [
+    {
+     "q": "O que Deus disse que aconteceria ao povo se comece gordura de animais? Lv.7:25",
+     "a": [
+      "Seria envenenado",
+      "Seria abençoado",
+      "Seria contaminado",
+      "Seria extirpado do seu povo"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Qual era a tribo dos pais de Moisés? Êx.2:1",
+     "a": [
+      "Tribo de Levi",
+      "Tribo de Judá",
+      "Tribo de Aser",
+      "Tribo de Efraim"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Qual a nacionalidade do homem que Moisés matou? Êx.2:11",
+     "a": [
+      "Hebreus",
+      "Israelita",
+      "Cananeu",
+      "Egípcio"
+     ],
+     "c": 3
+    },
+    {
+     "q": "O que e saraiva? Êx. 9:18",
+     "a": [
+      "Vento",
+      "Granizo",
+      "Raios",
+      "Trovões"
+     ],
+     "c": 1
+    },
+    {
+     "q": "Porque acendeu a ira de Deus contra Moisés? Êx.4:10-16",
+     "a": [
+      "Porque Moisés não quis fazer a vontade do senhor",
+      "Porque Moisés murmurou",
+      "Porque Moisés se irou",
+      "Porque Moisés mentiu"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Qual era o nome dos filhos de Moisés? Êx.2:21 e Êx.18:4",
+     "a": [
+      "Gérson e Eliezer",
+      "Efraim e Manasses",
+      "Midiã e Miriã",
+      "Anrão e Arão"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Porque Deus escolheu Moisés e não outro para retira o povo do Egito? Ex:3:4",
+     "a": [
+      "Porque ele era escolhido",
+      "Porque ele era israelita",
+      "Porque ele era filisteu",
+      "Porque ele ouviu o Senhor e aceitou o seu chamado"
+     ],
+     "c": 3
+    },
+    {
+     "q": "O que Deus disse que aconteceria ao povo se comece gordura de animais? Lv.7:25",
+     "a": [
+      "Seria envenenado",
+      "Seria abençoado",
+      "Seria contaminado",
+      "Seria extirpado do seu povo"
+     ],
+     "c": 3
+    },
+    {
+     "q": "Qual era a tribo dos pais de Moisés? Êx.2:1",
+     "a": [
+      "Tribo de Levi",
+      "Tribo de Judá",
+      "Tribo de Aser",
+      "Tribo de Efraim"
+     ],
+     "c": 0
+    },
+    {
+     "q": "Qual a nacionalidade do homem que Moisés matou? Êx.2:11",
+     "a": [
+      "Hebreus",
+      "Israelita",
+      "Cananeu",
+      "Egípcio"
+     ],
+     "c": 3
+    }
+   ]
+  }
+ ]
+}
