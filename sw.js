@@ -1,5 +1,5 @@
 // Service worker: app shell em cache + cache em tempo de execução das bibliotecas (CDN) e do targets.mind
-const VERSAO = 'gincana-v1';
+const VERSAO = 'gincana-v2';
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest',
   'data/temas.json', 'icons/icon-192.png', 'icons/icon-512.png',

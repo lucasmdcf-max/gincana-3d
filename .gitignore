@@ -5,3 +5,5 @@ LEIA-ME.txt
 compilar.html
 baus-para-compilar-512/
 node_modules/
+gerar-icones.mjs
+*.ai
